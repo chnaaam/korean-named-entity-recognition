@@ -1,0 +1,12 @@
+cache
+dataset
+label
+tests
+venv
+vocab
+model
+
+KoNER/lightning_logs
+KoNER/wandb
+
+.idea
